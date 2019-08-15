@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b78b4347-3e75-44df-9364-3ec8a7602268" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile.windows" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Events/migrations/0005_auto_20190815_0326.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Back/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Back/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Back/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-getting-started" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -104,7 +106,8 @@
       <workItem from="1565839560489" duration="110000" />
       <workItem from="1565846492656" duration="1423000" />
       <workItem from="1565900412482" duration="725000" />
-      <workItem from="1565901159959" duration="492000" />
+      <workItem from="1565901159959" duration="615000" />
+      <workItem from="1565902002949" duration="418000" />
     </task>
     <task id="LOCAL-00001" summary="Funcionando primer modelo.">
       <created>1565824834706</created>
@@ -127,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565901256673</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tryhard">
+      <created>1565901759238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565901759238</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +161,7 @@
     <MESSAGE value="Funcionando primer modelo." />
     <MESSAGE value="Pipenv's shit" />
     <MESSAGE value="SQLITE3 Heroku pls" />
-    <option name="LAST_COMMIT_MESSAGE" value="SQLITE3 Heroku pls" />
+    <MESSAGE value="Tryhard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tryhard" />
   </component>
 </project>
