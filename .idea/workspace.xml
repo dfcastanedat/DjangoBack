@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b78b4347-3e75-44df-9364-3ec8a7602268" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/events/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/events/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/events/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/migrations/0002_auto_20190814_2156.py" beforeDir="false" afterPath="$PROJECT_DIR$/events/migrations/0002_auto_20190814_2156.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/migrations/0003_auto_20190814_2156.py" beforeDir="false" afterPath="$PROJECT_DIR$/events/migrations/0003_auto_20190814_2156.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/migrations/0004_event_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/events/migrations/0004_event_event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/migrations/0005_auto_20190815_0326.py" beforeDir="false" afterPath="$PROJECT_DIR$/events/migrations/0005_auto_20190815_0326.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +106,7 @@
       <workItem from="1565900412482" duration="725000" />
       <workItem from="1565901159959" duration="615000" />
       <workItem from="1565902002949" duration="418000" />
-      <workItem from="1565903834360" duration="313000" />
+      <workItem from="1565903834360" duration="588000" />
     </task>
     <task id="LOCAL-00001" summary="Funcionando primer modelo.">
       <created>1565824834706</created>
@@ -148,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565904050362</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="xd3">
+      <created>1565904152073</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565904152073</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +184,7 @@
     <MESSAGE value="Tryhard" />
     <MESSAGE value="xd" />
     <MESSAGE value="xd2" />
-    <option name="LAST_COMMIT_MESSAGE" value="xd2" />
+    <MESSAGE value="xd3" />
+    <option name="LAST_COMMIT_MESSAGE" value="xd3" />
   </component>
 </project>
