@@ -6,5 +6,5 @@ admin.autodiscover()
 
 
 urlpatterns = [
-    path('', include('Events.urls')),
+    path('', include('events.urls')),
 ]
